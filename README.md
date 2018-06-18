@@ -1,6 +1,6 @@
 # brianzelip/vue-parcel
 
-> A simple Vue 2.0 and Parcel setup for quick prototyping.
+> A simple Vue 2.0 development setup with Parcel and Pug for quick prototyping.
 
 ### Usage
 
@@ -16,4 +16,4 @@ $ npm run dev
 
 ### What's Included
 
-- `npm start`: Parcel and index.html setup
+- `npm start`: Parcel and pug dev environment with index.html entry
