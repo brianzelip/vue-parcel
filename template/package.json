@@ -1,7 +1,7 @@
 {
-  "name": "parcel-vue-test",
+  "name": "vue-parcel",
   "version": "0.0.1",
-  "description": "Parcel-Vue sandbox",
+  "description": "vue-cli template for new Vue projects with Pug and Parcel",
   "main": "app.js",
   "scripts": {
     "start": "parcel index.html"
